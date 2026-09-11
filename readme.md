@@ -1,4 +1,4 @@
-# Remove Background Local
+# Remove Background Local Using API Remove BG
 
 ## Setup
 1. Install Python 3.10+.
